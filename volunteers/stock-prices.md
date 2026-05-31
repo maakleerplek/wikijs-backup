@@ -12,7 +12,7 @@ dateCreated: 2026-03-31T22:26:57.099Z
 
 Internal pricing reference for HTL stock items — buying prices, selling prices, and suppliers.
 
-> This page is for **volunteer reference only** — not public-facing. For the public price list, see [Prices](/en/hightechlab/prices).
+> This page is for **volunteer reference only** — not public-facing. For the public price list, see [Prices](/visitors/prices).
 {.is-warning}
 
 ---
@@ -97,5 +97,5 @@ Internal pricing reference for HTL stock items — buying prices, selling prices
 
 ## See Also
 
-- [Public Price List](/en/hightechlab/prices)
-- [Restocking](/en/hightechlab/restocking)
+- [Public Price List](/visitors/prices)
+- [Restocking](/volunteers/restocking)

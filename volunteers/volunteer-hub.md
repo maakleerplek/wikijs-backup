@@ -69,19 +69,19 @@ Once added you'll get a notification email and can access all HTL designs via th
 
 | Category | Link | What's inside |
 |---|---|---|
-| Administration | [→ wiki](/en/hightechlab/documents/administration) | Meeting notes, action lists |
-| Communications | [→ wiki](/en/hightechlab/documents/communications) | Templates, logos, meeting notes Visibility team |
-| Organization | [→ wiki](/en/hightechlab/documents/organization) | HR, house rules, team structure |
-| Finance | [→ wiki](/en/hightechlab/documents/finance) | Budgets, invoices |
-| Machines | [→ wiki](/en/hightechlab/documents/machines) | Manuals, maintenance, machine-specific files |
-| Workshops | [→ wiki](/en/hightechlab/documents/workshops) | Workshop materials and guides |
-| Templates | [→ wiki](/en/hightechlab/documents/templates) | Reusable document templates |
+| Administration | [→ wiki](/volunteers/documents/administration) | Meeting notes, action lists |
+| Communications | [→ wiki](/volunteers/documents/communications) | Templates, logos, meeting notes Visibility team |
+| Organization | [→ wiki](/volunteers/documents/organization) | HR, house rules, team structure |
+| Finance | [→ wiki](/volunteers/documents/finance) | Budgets, invoices |
+| Machines | [→ wiki](/volunteers/documents/machines) | Manuals, maintenance, machine-specific files |
+| Workshops | [→ wiki](/volunteers/documents/workshops) | Workshop materials and guides |
+| Templates | [→ wiki](/volunteers/documents/templates) | Reusable document templates |
 
 ---
 
 ## Key Wiki Pages
 
-- [Teams & Machines](/en/hightechlab/teams) — who is responsible for what
-- [Volunteering](/en/hightechlab/volunteering) — expectations and benefits
-- [Volunteer Contacts](/en/hightechlab/volunteer-contacts) — contact list
-- [Schedule](/en/hightechlab/schedule) — shifts and open labs schedule
+- [Teams & Machines](/volunteers/teams) — who is responsible for what
+- [Volunteering](/volunteers/volunteering) — expectations and benefits
+- [Volunteer Contacts](/volunteers/volunteer-contacts) — contact list
+- [Schedule](/visitors/schedule) — shifts and open labs schedule

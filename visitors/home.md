@@ -16,7 +16,7 @@ Welcome to the internal wiki for High Tech Lab, part of **maakleerplek vzw** —
 
 
 
-> **New here?** Start with the [High Tech Lab](/en/hightechlab) page to learn about the lab, opening hours, and how to get started.
+> **New here?** Start with the [High Tech Lab](/visitors/hightechlab) page to learn about the lab, opening hours, and how to get started.
 {.is-info}
 
 ---
@@ -28,6 +28,7 @@ What is High Tech Lab?
 - [The Lab *House rules, how to enter, machine use*](/en/hightechlab/the-lab)
 - [Open Labs *Thursday 18-22h, Saturday 14-18h*](/en/hightechlab/open-labs)
 - [Workshops *Public workshops and group bookings*](/en/hightechlab/workshops)
+{.links-list}
 
 {.links-list}
 
@@ -38,24 +39,24 @@ What is High Tech Lab?
 > The pages below are for registered volunteers. If you don't have access yet, contact ict@maakleerplek.be.
 {.is-warning}
 
-- [Volunteer Hub *Meetings, tools, assets, and shared documents*](/en/hightechlab/volunteer-hub)
-- [Volunteering *Expectations, benefits, activities*](/en/hightechlab/volunteering)
-- [Teams & Machines *Sub-teams, machine responsibles*](/en/hightechlab/teams)
-- [Finance & Purchases *How to buy things, reimbursement*](/en/hightechlab/finance)
-- [Closing Checklist *End-of-day shutdown procedure*](/en/hightechlab/closing-checklist)
-- [Service Learning *Student crew info*](/en/hightechlab/service-learning)
-- [Cowork *Cowork spots, facilities*](/en/maakleerplek/cowork)
-- [HTL-Passwords *All passwords relevent for the lab*](/en/htl-passwords)
+- [Volunteer Hub *Meetings, tools, assets, and shared documents*](/volunteers/volunteer-hub)
+- [Volunteering *Expectations, benefits, activities*](/volunteers/volunteering)
+- [Teams & Machines *Sub-teams, machine responsibles*](/volunteers/teams)
+- [Finance & Purchases *How to buy things, reimbursement*](/volunteers/finance)
+- [Closing Checklist *End-of-day shutdown procedure*](/volunteers/closing-checklist)
+- [Service Learning *Student crew info*](/volunteers/service-learning)
+- [Cowork *Cowork spots, facilities*](/volunteers/cowork)
+- [HTL-Passwords *All passwords relevent for the lab*](/volunteers/htl-passwords)
 {.links-list}
 
 ---
 
 **Documentation IT**
-- [HTL Dashboard *All tools, links, and resources in one place*](/en/hightechlab/dashboard)
-- [Soteria Stack *Server infrastructure*](/en/ict/admin/soteria-doc)
-- [TV Kiosk Documentation *Kiosk info*](/en/ict/infra/kiosk-screen)
-- [Temporary HTL Server *Ubuntu Server laptop hosting InvenTree & frontend*](/en/ict/infra/htl-temp-server)
-- [Stock Management System *InvenTree, checkout frontend, barcode scanner*](/en/hightechlab/stock-system)
+- [HTL Dashboard *All tools, links, and resources in one place*](/volunteers/dashboard)
+- [Soteria Stack *Server infrastructure*](/it/soteria-doc)
+- [TV Kiosk Documentation *Kiosk info*](/it/kiosk-screen)
+- [Temporary HTL Server *Ubuntu Server laptop hosting InvenTree & frontend*](/it/htl-temp-server)
+- [Stock Management System *InvenTree, checkout frontend, barcode scanner*](/volunteers/stock-system)
 {.links-list}
 
 ---
@@ -75,4 +76,4 @@ What is High Tech Lab?
 | Repair Cafés | info@maakbaarleuven.be |
 | Herstelhub Elektro | info@maakbaarleuven.be |
 
-For individual volunteer contacts per team, see the [Volunteer Contact List](/en/hightechlab/volunteer-contacts).
+For individual volunteer contacts per team, see the [Volunteer Contact List](/volunteers/volunteer-contacts).

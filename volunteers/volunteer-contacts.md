@@ -39,4 +39,4 @@ These are general department inboxes — not individual volunteers. For person-t
 > To be filled in — names, roles, and contact details per team/machine.
 {.is-info}
 
-For now, see the [Teams & Machines](/en/hightechlab/teams) page for who is responsible per team and machine. For current representative info, also check the **[HTL SharePoint](https://maakleerplek.sharepoint.com/sites/HighTechLab)**.
+For now, see the [Teams & Machines](/volunteers/teams) page for who is responsible per team and machine. For current representative info, also check the **[HTL SharePoint](https://maakleerplek.sharepoint.com/sites/HighTechLab)**.

@@ -18,7 +18,7 @@ The current HTL server is a **laptop running Ubuntu Server**. It hosts the Inven
 ssh htl-tempserver@10.72.3.68
 ```
 
-Password: see [HTL Passwords](/en/htl-passwords) (guest)
+Password: see [HTL Passwords](/volunteers/htl-passwords) (guest)
 
 > Only accessible on the HTL local network.
 {.is-warning}
@@ -36,6 +36,6 @@ Maintainers are listed in the relevant **GitHub repositories** under the [maakle
 
 ## See Also
 
-- [HTL Passwords](/en/htl-passwords)
-- [Stock Management System](/en/hightechlab/stock-system)
-- [Info Screen — Raspberry Pi Kiosk](/en/ict/infra/kiosk-screen)
+- [HTL Passwords](/volunteers/htl-passwords)
+- [Stock Management System](/volunteers/stock-system)
+- [Info Screen — Raspberry Pi Kiosk](/it/kiosk-screen)

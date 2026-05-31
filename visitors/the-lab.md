@@ -16,14 +16,14 @@ dateCreated: 2026-03-31T20:44:56.816Z
 1. **Clean up after yourself** — use correct bins, clean tables, leave at least as clean as you found it.
 2. **Help each other** — share knowledge.
 3. **Share the lab with others** — the lab cannot be reserved, only machines. Expect others.
-4. **Secure the lab when leaving** — lights off, doors locked, soldering devices off. See [Closing Checklist](/en/hightechlab/closing-checklist).
+4. **Secure the lab when leaving** — lights off, doors locked, soldering devices off. See [Closing Checklist](/volunteers/closing-checklist).
 5. **Follow safety rules** — use machines as intended. Some require training/certification.
 6. **CCTV** — by entering the lab you consent to camera recording.
 
 ## Entering the Lab
 
 1. After signing the volunteering agreement, your coordinator requests access from site coordination.
-2. You receive an invite for the **Salto KS** app (see [Access & Smart Locks](/en/maakleerplek/access) for details).
+2. You receive an invite for the **Salto KS** app (see [Access & Smart Locks](/visitors/access) for details).
 3. **Lights:** get the big HTL key from the locker → go to Kantine → switches next to the door of the basement. Ask the coordinator for access codes.
 4. **Register** yourself and visitors on the Chromebook at the entrance. Use the bookmark or form link in Chrome. Ask the coordinator for the screen unlock code.
 5. ICT issues: ict@maakleerplek.be
@@ -53,7 +53,7 @@ Pay via **Payconiq** (QR code on the wall). Volunteers: €5 machine credit/mont
 | PMD & rest | White gate outside |
 | Other recyclables | Recycle box under TV |
 
-See also: [Waste Management](/en/maakleerplek/waste) (building-wide).
+See also: [Waste Management](/volunteers/waste) (building-wide).
 
 
 ## Lab Calendar

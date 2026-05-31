@@ -25,9 +25,9 @@ We migrated content from SharePoint to the wiki and found several errors and gap
 
 ### Everyone
 - [ ] Is the door access method **Nuki** or **Salto KS** for HTL? (Different pages say different things)
-- [ ] Are the [drink prices](/en/hightechlab/prices) still correct? (Water €1, Soda €1.50, Coffee €1)
+- [ ] Are the [drink prices](/visitors/prices) still correct? (Water €1, Soda €1.50, Coffee €1)
 - [ ] Is "no cash payments" strictly true?
-- [ ] Does the [closing checklist](/en/hightechlab/closing-checklist) match what you actually do?
+- [ ] Does the [closing checklist](/volunteers/closing-checklist) match what you actually do?
 
 ### Machine Responsibles
 Your machine pages are mostly empty. At minimum we need:
@@ -36,28 +36,28 @@ Your machine pages are mostly empty. At minimum we need:
 - [ ] Any known issues or maintenance notes
 
 Pages to check:
-- [Machines overview](/en/hightechlab/machines) — is your machine status correct?
+- [Machines overview](/visitors/machines) — is your machine status correct?
 - Your individual machine page — linked from the overview
 
 ### Team Leads
-- [ ] Is the [Teams & Machines](/en/hightechlab/teams) page still accurate?
+- [ ] Is the [Teams & Machines](/volunteers/teams) page still accurate?
 - [ ] Is your team still active? Are the listed people still the right contacts?
 - [ ] "Stock" team lists Matteo Feyaerts as correspondent — who is that?
 - [ ] What is the "Fun Department"?
 
 ### Klaas
-- [ ] Are the [workshop pricing tiers](/en/hightechlab/workshops) still €10/€15/€25?
+- [ ] Are the [workshop pricing tiers](/visitors/workshops) still €10/€15/€25?
 - [ ] Is the post-workshop email flow (slides + evaluation + certification invite) actually happening?
 - [ ] Is the [Stamhoofd webshop](https://shop.stamhoofd.be/hightechlab/) up to date with current workshops?
-- [ ] [Service Learning](/en/hightechlab/service-learning) — still "Group T / Global Engineers"?
+- [ ] [Service Learning](/volunteers/service-learning) — still "Group T / Global Engineers"?
 
 ### Kobe
-- [ ] [Buurtkantine](/en/maakleerplek/buurtkantine) — still soup from Foodatelier Cesar? Is Lisa still involved?
-- [ ] [Room booking](/en/maakleerplek/rooms) — all room emails still correct?
-- [ ] [Cleaning](/en/maakleerplek/cleaning) — still Wonen en Werken on Tuesdays?
+- [ ] [Buurtkantine](/volunteers/buurtkantine) — still soup from Foodatelier Cesar? Is Lisa still involved?
+- [ ] [Room booking](/visitors/rooms) — all room emails still correct?
+- [ ] [Cleaning](/volunteers/cleaning) — still Wonen en Werken on Tuesdays?
 
 ### Anton-Jan
-- [ ] [Finance](/en/hightechlab/finance) — are the approval thresholds right? Professional accounts still at Amazon, Bol, Kippers Hobby?
+- [ ] [Finance](/volunteers/finance) — are the approval thresholds right? Professional accounts still at Amazon, Bol, Kippers Hobby?
 - [ ] Where exactly are the plastic recycling machines now?
 
 ### Stan

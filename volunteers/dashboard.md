@@ -61,12 +61,12 @@ One page with every tool and resource used at the High Tech Lab.
 
 ## Key Wiki Pages
 
-- [Volunteer Hub](/en/hightechlab/volunteer-hub) — meetings, tools, assets, and documents for volunteers
-- [Stock Management System](/en/hightechlab/stock-system)
-- [Restocking](/en/hightechlab/restocking)
-- [Prices](/en/hightechlab/prices) — public price list
-- [Stock Prices & Margins](/en/hightechlab/stock-prices) — internal buying/selling prices
-- [HTL Passwords](/en/htl-passwords)
-- [Volunteer Contact List](/en/hightechlab/volunteer-contacts)
-- [Temporary HTL Server](/en/ict/infra/htl-temp-server)
-- [Info Screen — Raspberry Pi Kiosk](/en/ict/infra/kiosk-screen)
+- [Volunteer Hub](/volunteers/volunteer-hub) — meetings, tools, assets, and documents for volunteers
+- [Stock Management System](/volunteers/stock-system)
+- [Restocking](/volunteers/restocking)
+- [Prices](/visitors/prices) — public price list
+- [Stock Prices & Margins](/volunteers/stock-prices) — internal buying/selling prices
+- [HTL Passwords](/volunteers/htl-passwords)
+- [Volunteer Contact List](/volunteers/volunteer-contacts)
+- [Temporary HTL Server](/it/htl-temp-server)
+- [Info Screen — Raspberry Pi Kiosk](/it/kiosk-screen)

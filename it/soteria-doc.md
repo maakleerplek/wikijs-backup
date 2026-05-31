@@ -14,6 +14,8 @@ Reproducible Docker infrastructure for the makerspace. All services are version-
 
 ## Architecture Overview
 
+> **Access & Permissions**: To contribute to the IT repositories, ensure you are added to the [maakleerplek IT GitHub Team](https://github.com/orgs/maakleerplek/teams/it).
+
 ```mermaid
 graph TD
     A[Fresh Server / Disaster] --> B[Clone repo]
