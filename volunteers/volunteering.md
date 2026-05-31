@@ -20,7 +20,7 @@ dateCreated: 2026-03-31T20:44:52.099Z
 - Attend the monthly volunteer meetings.
 - Contribute minimum 4 hours/month — one of the activities and/or joining a team.
 - Attend workshops to increase shared knowledge across the team.
-- Follow the [house rules](/en/hightechlab/the-lab).
+- Follow the [house rules](/visitors/the-lab).
 
 ## What You Get
 
@@ -35,17 +35,17 @@ dateCreated: 2026-03-31T20:44:52.099Z
 |---|---|---|
 | Open Labs | Thu 18–22, Sat 14–18 | Anyone welcome |
 | Young Maker Lab | Wed 13–17, Sun 10–13 | Under 18 |
-| Public Workshops | Evenings, see [workshops](/en/hightechlab/workshops) | Register via [Stamhoofd webshop](https://shop.stamhoofd.be/hightechlab/) |
+| Public Workshops | Evenings, see [workshops](/visitors/workshops) | Register via [Stamhoofd webshop](https://shop.stamhoofd.be/hightechlab/) |
 | Workshops on Demand | Daytime, booked | School/corporate groups |
 | Personal Making | Any time lab is free | €5/month credit applies |
 
 ## Teams
 
-Teams are self-organized and responsible for maintenance and improvement of their area. Teams are set up in July and January. See [Teams & Machines](/en/hightechlab/teams) for the current list.
+Teams are self-organized and responsible for maintenance and improvement of their area. Teams are set up in July and January. See [Teams & Machines](/volunteers/teams) for the current list.
 
 ## Resources
 
-See the [Volunteer Hub](/en/hightechlab/volunteer-hub) for meeting notes, shared tools (SharePoint, OnShape), image assets, and documents.
+See the [Volunteer Hub](/volunteers/volunteer-hub) for meeting notes, shared tools (SharePoint, OnShape), image assets, and documents.
 
 ## Contact
 

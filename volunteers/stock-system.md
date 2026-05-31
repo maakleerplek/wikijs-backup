@@ -21,7 +21,7 @@ The High Tech Lab uses a barcode-based stock system to manage and sell consumabl
 [InvenTree](https://inventree.org/) is the central stock management platform. It stores all items, categories, stock levels, prices, and barcodes.
 
 - **Instance:** [http://10.72.3.68:80](http://10.72.3.68:80) (HTL network only — temporary, will move to a `*.maakleerplek.be` domain via ICT)
-- **Login:** username `HTL`, password in [HTL Passwords](/en/htl-passwords)
+- **Login:** username `HTL`, password in [HTL Passwords](/volunteers/htl-passwords)
 - **Docs:** [docs.inventree.org](https://docs.inventree.org/)
 - Every item has a unique barcode assigned in InvenTree
 - Prices and stock levels are updated here and flow to all other components automatically
@@ -44,7 +44,7 @@ The frontend is a website — open it on any device connected to the HTL network
 4. If Wero doesn't work, **Payconiq** is the fallback — use the **Payconiq QR code on the wall**
 
 #### Volunteer Mode (password-protected)
-Volunteer mode is accessible directly from the stock frontend — there is a button on the main screen to switch to it. Enter the password from [HTL Passwords](/en/htl-passwords) to unlock.
+Volunteer mode is accessible directly from the stock frontend — there is a button on the main screen to switch to it. Enter the password from [HTL Passwords](/volunteers/htl-passwords) to unlock.
 
 Once in volunteer mode you have full control over the stock:
 - Add stock, remove stock, or set exact quantities
@@ -53,14 +53,14 @@ Once in volunteer mode you have full control over the stock:
 - Create and track **purchase orders** under the "Purchase Orders" tab
 
 > **Item empty or running low?** Go to the **Purchase Orders** tab in volunteer mode and create a purchase order. Then place the order with the supplier (e.g. Prik&Tik) and mark it as issued. When the delivery arrives, receive it in InvenTree to update stock automatically.
-> → Full instructions: **[Restocking](/en/hightechlab/restocking)**
+> → Full instructions: **[Restocking](/volunteers/restocking)**
 {.is-warning}
 
 ---
 
 ### 3. TV Presentation — Info Screen
 
-A Next.js dashboard running on the entrance TV (via a Raspberry Pi kiosk). See → [Info Screen — Raspberry Pi Kiosk](/en/ict/infra/kiosk-screen).
+A Next.js dashboard running on the entrance TV (via a Raspberry Pi kiosk). See → [Info Screen — Raspberry Pi Kiosk](/it/kiosk-screen).
 
 - Shows **live stock levels** for drinks, snacks, and materials pulled from InvenTree
 - Shows machine usage prices, upcoming events, weather, and news
@@ -108,9 +108,9 @@ sudo systemctl restart inventree-scanner.service
 | Variable | Value |
 |---|---|
 | `INVENTREE_URL` | `http://10.72.3.68:80` |
-| `INVENTREE_TOKEN` | see [HTL Passwords](/en/htl-passwords) |
+| `INVENTREE_TOKEN` | see [HTL Passwords](/volunteers/htl-passwords) |
 | `VITE_PAYMENT_NAME` | `Hightechlab/Maakleerplek` |
-| `VITE_PAYMENT_IBAN` | see [HTL Passwords](/en/htl-passwords) |
+| `VITE_PAYMENT_IBAN` | see [HTL Passwords](/volunteers/htl-passwords) |
 | `HTL_NAME` | `HTL Makerspace` |
 | `HTL_CODE` | `HTL001` |
 
@@ -173,10 +173,10 @@ To get access, request to join the [maakleerplek GitHub team](https://github.com
 
 ## See Also
 
-- [Prices](/en/hightechlab/prices) — public price list
-- [Stock Prices & Margins](/en/hightechlab/stock-prices) — internal buying prices and profit margins
-- [Restocking](/en/hightechlab/restocking) — how and when to reorder drinks and materials
-- [Info Screen — Raspberry Pi Kiosk](/en/ict/infra/kiosk-screen) — TV display setup
-- [Temporary HTL Server](/en/ict/infra/htl-temp-server) — server hosting InvenTree and the frontend
-- [HTL Passwords](/en/htl-passwords) — volunteer mode password and other credentials
+- [Prices](/visitors/prices) — public price list
+- [Stock Prices & Margins](/volunteers/stock-prices) — internal buying prices and profit margins
+- [Restocking](/volunteers/restocking) — how and when to reorder drinks and materials
+- [Info Screen — Raspberry Pi Kiosk](/it/kiosk-screen) — TV display setup
+- [Temporary HTL Server](/it/htl-temp-server) — server hosting InvenTree and the frontend
+- [HTL Passwords](/volunteers/htl-passwords) — volunteer mode password and other credentials
 - [InvenTree documentation](https://docs.inventree.org/)

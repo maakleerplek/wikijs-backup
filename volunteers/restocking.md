@@ -63,7 +63,7 @@ When an item is empty or running low, a purchase order should be created in Inve
 
 ## Other Materials
 
-Each material category (filament, wood, electronics, etc.) has a responsible volunteer. Find the right person via the **[HTL SharePoint](https://maakleerplek.sharepoint.com/sites/HighTechLab)** or the [Volunteer Contact List](/en/hightechlab/volunteer-contacts). When in doubt, post in the **HTL WhatsApp group** — the relevant person will respond.
+Each material category (filament, wood, electronics, etc.) has a responsible volunteer. Find the right person via the **[HTL SharePoint](https://maakleerplek.sharepoint.com/sites/HighTechLab)** or the [Volunteer Contact List](/volunteers/volunteer-contacts). When in doubt, post in the **HTL WhatsApp group** — the relevant person will respond.
 
 ## Communication
 
@@ -71,6 +71,6 @@ Volunteers coordinate via **WhatsApp**. There are specific group chats per team 
 
 ## See Also
 
-- [Stock Prices & Margins](/en/hightechlab/stock-prices) — buying prices, selling prices, and profit margins
-- [Stock Management System](/en/hightechlab/stock-system) — how the full stock system works
-- [Volunteer Contact List](/en/hightechlab/volunteer-contacts)
+- [Stock Prices & Margins](/volunteers/stock-prices) — buying prices, selling prices, and profit margins
+- [Stock Management System](/volunteers/stock-system) — how the full stock system works
+- [Volunteer Contact List](/volunteers/volunteer-contacts)

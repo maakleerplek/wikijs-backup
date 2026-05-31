@@ -26,7 +26,7 @@ Cowork spots are rented via the site coordinator (info@maakleerplek.be). Your or
 - Personal locker (code-changeable)
 - Phone booth (belcel)
 - Printer (office use only — no large print runs)
-- Meeting rooms (Schouwzaal and Pauka) — available from 1.5 FTE cowork spot. See [Room Booking](/en/maakleerplek/rooms).
+- Meeting rooms (Schouwzaal and Pauka) — available from 1.5 FTE cowork spot. See [Room Booking](/visitors/rooms).
 
 ## Contact
 
