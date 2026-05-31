@@ -2,13 +2,13 @@
 title: Maakleerplek Wiki
 description: Internal wiki for maakleerplek vzw volunteers and coordinators.
 published: true
-date: 2026-05-31T21:00:00.000Z
-tags:
+date: 2026-05-31T22:17:58.767Z
+tags: 
 editor: markdown
-dateCreated: 2025-11-27T11:11:38.562Z
+dateCreated: 2026-05-31T21:55:26.008Z
 ---
 
-![Maakleerplek](/assets/maakleerplek.svg =200x)
+![Home page](/assets/maakleerplek.svg =200x)
 
 Welcome to the internal wiki for **High Tech Lab**, part of maakleerplek vzw.
 
