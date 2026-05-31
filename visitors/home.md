@@ -2,78 +2,59 @@
 title: Maakleerplek Wiki
 description: Internal wiki for maakleerplek vzw volunteers and coordinators.
 published: true
-date: 2026-05-31T20:40:04.441Z
-tags: 
+date: 2026-05-31T21:00:00.000Z
+tags:
 editor: markdown
 dateCreated: 2025-11-27T11:11:38.562Z
 ---
 
-![Maakleerplek](/u/assets/maakleerplek.svg =200x)
-![htl_logo.png](/htl_logo.png)
+![Maakleerplek](/assets/maakleerplek.svg =200x)
 
-Welcome to the internal wiki for High Tech Lab, part of **maakleerplek vzw** — a community of maker workshops in the Vaartkom, Leuven.
+Welcome to the internal wiki for **High Tech Lab**, part of maakleerplek vzw.
 
-
-
-
-> **New here?** Start with the [High Tech Lab](/visitors/hightechlab) page to learn about the lab, opening hours, and how to get started.
+> **New here?** Start with the [High Tech Lab](/visitors/hightechlab) page.
 {.is-info}
 
 ---
 
-## Info for visitors
+## High Tech Lab
 
-What is High Tech Lab?
-- [Overview *Schedule, pricing, getting started*](/en/hightechlab)
-- [The Lab *House rules, how to enter, machine use*](/en/hightechlab/the-lab)
-- [Open Labs *Thursday 18-22h, Saturday 14-18h*](/en/hightechlab/open-labs)
-- [Workshops *Public workshops and group bookings*](/en/hightechlab/workshops)
+- [Overview *Schedule, pricing, machines*](/visitors/hightechlab)
+- [Machines *Equipment list with details*](/visitors/machines)
+- [Prices](/visitors/prices)
+- [Schedule](/visitors/schedule)
 {.links-list}
 
-{.links-list}
+For organizational info (volunteering, open labs, workshops, FAQ), see [SharePoint](https://maakleerplek.sharepoint.com/sites/HighTechLab).
 
 ---
 
 ## Volunteer Area
 
-> The pages below are for registered volunteers. If you don't have access yet, contact ict@maakleerplek.be.
-{.is-warning}
-
-- [Volunteer Hub *Meetings, tools, assets, and shared documents*](/volunteers/volunteer-hub)
-- [Volunteering *Expectations, benefits, activities*](/volunteers/volunteering)
-- [Teams & Machines *Sub-teams, machine responsibles*](/volunteers/teams)
-- [Finance & Purchases *How to buy things, reimbursement*](/volunteers/finance)
-- [Closing Checklist *End-of-day shutdown procedure*](/volunteers/closing-checklist)
-- [Service Learning *Student crew info*](/volunteers/service-learning)
-- [Cowork *Cowork spots, facilities*](/volunteers/cowork)
-- [HTL-Passwords *All passwords relevent for the lab*](/volunteers/htl-passwords)
+- [Volunteer Hub *Meetings, tools, documents*](/volunteers/volunteer-hub)
+- [Stock System *InvenTree, checkout, barcode scanner*](/volunteers/stock-system)
+- [Closing Checklist](/volunteers/closing-checklist)
+- [HTL Passwords](/volunteers/htl-passwords)
 {.links-list}
+
+For policies and procedures, see [SharePoint](https://maakleerplek.sharepoint.com/sites/HighTechLab).
 
 ---
 
-**Documentation IT**
-- [HTL Dashboard *All tools, links, and resources in one place*](/volunteers/dashboard)
-- [Soteria Stack *Server infrastructure*](/it/soteria-doc)
-- [TV Kiosk Documentation *Kiosk info*](/it/kiosk-screen)
-- [Temporary HTL Server *Ubuntu Server laptop hosting InvenTree & frontend*](/it/htl-temp-server)
-- [Stock Management System *InvenTree, checkout frontend, barcode scanner*](/volunteers/stock-system)
+## IT Documentation
+
+- [IT Infrastructure *Servers, services, networking*](/it)
+- [Soteria *Critical infrastructure server*](/it/servers/soteria)
+- [Helios *Application server*](/it/servers/helios)
+- [User Management *SSO & server accounts*](/it/user-management)
 {.links-list}
 
 ---
 
 ## Contact
 
-| Department / Team | Contact |
-|---|---|
-| Algemene vragen, verhuur, cowork | info@maakleerplek.be |
-| Boekhouding | accounting@maakleerplek.be |
+| Team | Contact |
+|------|---------|
 | High Tech Lab | hightechlab@maakleerplek.be |
-| Grafisch Lab | grafischlab@maakleerplek.be |
-| LLES | hallo@lles.be |
-| Textiel Lab | info@maakbar.org |
-| Gereedschappenbib | info@maakbar.org |
-| Herstelhub Textiel | info@maakbar.org |
-| Repair Cafés | info@maakbaarleuven.be |
-| Herstelhub Elektro | info@maakbaarleuven.be |
-
-For individual volunteer contacts per team, see the [Volunteer Contact List](/volunteers/volunteer-contacts).
+| ICT | ict@maakleerplek.be |
+| General | info@maakleerplek.be |
