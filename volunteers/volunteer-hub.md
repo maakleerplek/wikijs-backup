@@ -65,23 +65,26 @@ Once added you'll get a notification email and can access all HTL designs via th
 
 ---
 
-## Documents by Category
+## Documents on SharePoint
 
-| Category | Link | What's inside |
-|---|---|---|
-| Administration | [→ wiki](/volunteers/documents/administration) | Meeting notes, action lists |
-| Communications | [→ wiki](/volunteers/documents/communications) | Templates, logos, meeting notes Visibility team |
-| Organization | [→ wiki](/volunteers/documents/organization) | HR, house rules, team structure |
-| Finance | [→ wiki](/volunteers/documents/finance) | Budgets, invoices |
-| Machines | [→ wiki](/volunteers/documents/machines) | Manuals, maintenance, machine-specific files |
-| Workshops | [→ wiki](/volunteers/documents/workshops) | Workshop materials and guides |
-| Templates | [→ wiki](/volunteers/documents/templates) | Reusable document templates |
+| Category | Link |
+|---|---|
+| All Documents | [Shared Documents](https://maakleerplek.sharepoint.com/sites/HighTechLab/Shared%20Documents/Forms/AllItems.aspx) |
+| Administration | [Administration folder](https://maakleerplek.sharepoint.com/sites/HighTechLab/Shared%20Documents/Administration) |
+| Machines | [Machines folder](https://maakleerplek.sharepoint.com/sites/HighTechLab/Shared%20Documents/Machines) |
+| Workshops | [Workshops folder](https://maakleerplek.sharepoint.com/sites/HighTechLab/Shared%20Documents/Workshops) |
+| Communications | [Communications folder](https://maakleerplek.sharepoint.com/sites/HighTechLab/Shared%20Documents/Communications) |
 
 ---
 
-## Key Wiki Pages
+## Key Pages
 
-- [Teams & Machines](/volunteers/teams) — who is responsible for what
-- [Volunteering](/volunteers/volunteering) — expectations and benefits
-- [Volunteer Contacts](/volunteers/volunteer-contacts) — contact list
-- [Schedule](/visitors/schedule) — shifts and open labs schedule
+| Page | Location |
+|---|---|
+| Teams & Machines | [SharePoint](https://maakleerplek.sharepoint.com/sites/HighTechLab/SitePages/Teams.aspx) |
+| Volunteering | [SharePoint](https://maakleerplek.sharepoint.com/sites/HighTechLab/SitePages/Volunteering-at-HTL.aspx) |
+| Open Labs | [SharePoint](https://maakleerplek.sharepoint.com/sites/HighTechLab/SitePages/Open-Labs.aspx) |
+| Volunteer Contacts | [Wiki](/volunteers/volunteer-contacts) |
+| Schedule | [Wiki](/visitors/schedule) |
+| Stock System | [Wiki](/volunteers/stock-system) |
+| IT Infrastructure | [Wiki](/it) |

@@ -1,20 +1,58 @@
 ---
-title: Soteria Documentation
-description: Doc for soteria
+title: Soteria Server
+description: Main Docker host for Maakleerplek production services.
 published: true
-date: 2026-05-12T14:02:36.723Z
-tags: 
+date: 2026-05-31T21:00:00.000Z
+tags: it, server, docker
 editor: markdown
 dateCreated: 2025-11-19T22:51:28.578Z
 ---
 
-# Soteria Stack
+# Soteria Server
 
-Reproducible Docker infrastructure for the makerspace. All services are version-controlled and deployed via Portainer for easy disaster recovery.
+Critical infrastructure server for Maakleerplek. Hosts core services that everything else depends on — DNS, reverse proxy, SSO, etc. Reproducible Docker infrastructure — all services are version-controlled and deployed via Portainer.
 
-## Architecture Overview
+> **Soteria** = Greek goddess of safety and salvation. This server keeps everything running.
+{.is-info}
 
-> **Access & Permissions**: To contribute to the IT repositories, ensure you are added to the [maakleerplek IT GitHub Team](https://github.com/orgs/maakleerplek/teams/it).
+## Server Details
+
+| Property | Value |
+|----------|-------|
+| **Hostname** | soteria |
+| **Purpose** | Critical infrastructure |
+| **OS** | Ubuntu Server |
+| **Docker** | Yes |
+| **Management** | Portainer |
+| **Repository** | [maakleerplek/soteria_compose](https://github.com/maakleerplek/soteria_compose) |
+
+## Access
+
+```bash
+ssh <user>@soteria.maakleerplek.be
+```
+
+User accounts managed via Ansible — see [User Management](/it/user-management).
+
+> To contribute to IT repositories, join the [maakleerplek IT GitHub Team](https://github.com/orgs/maakleerplek/teams/it).
+{.is-info}
+
+## Hosted Services
+
+Critical infrastructure services only:
+
+| Service | Port | Documentation |
+|---------|------|---------------|
+| Portainer | 9000 | [→ Portainer](/it/services/portainer) |
+| Authentik | TBD | [→ Authentik](/it/services/authentik) |
+| Nginx Proxy Manager | TBD | Reverse proxy for all services |
+| DNS | TBD | Internal DNS resolution |
+| Wiki.js | 3081 | [→ Wiki.js](/it/services/wikijs) |
+
+> Application services (stock system, etc.) run on [Helios](/it/servers/helios), not here.
+{.is-warning}
+
+## Architecture
 
 ```mermaid
 graph TD
@@ -26,15 +64,12 @@ graph TD
 
     K[ /docker_data backup to NAS] -.Restore Data.-> F
     L[secrets backup to Bitwarden / NAS] -.Restore .env with secrets.-> F
-    
-    
-    
-    M[Add Service] --> 
-    
+
+    M[Add Service] -->
+
     R[Make sure data is in /docker_data] -.backed up on NAS.-> N
     Q[Add secrets to .env] -.backed up on BW/NAS.-> N
-		N[Commit & Push] --> G
-
+    N[Commit & Push] --> G
 
     style A fill:#ff6b6b
     style I fill:#51cf66
@@ -50,22 +85,25 @@ Portainer → Git Repo (this) → Docker Compose Stack → Services
 **Why this setup?**
 - Volunteer-based environment needs reproducibility
 - Portainer provides GUI for volunteers unfamiliar with CLI
+- Disaster recovery: all configuration in Git, data & secrets backed up to NAS
 
-- disaster recovery in case something goes south
-	- All configuration in Git
-	- Data & secrets backed up to NAS
+---
 
 ## Data Management
 
-- **Service data**: `/docker_data/<service-name>/` - Backed up to NAS
-- **Secrets**: `./secrets/.env` - Excluded from Git, backed up to NAS (or Bitwarden in the future)
-- **Configuration**: All `compose.yml` files - Version controlled in Git
+| Type | Location | Backup |
+|------|----------|--------|
+| Service data | `/docker_data/<service-name>/` | NAS |
+| Secrets | `./secrets/.env` | NAS / Bitwarden |
+| Configuration | `compose.yml` files | Git |
 
-## Port map
+## Port Map
 
 TODO
 
-## PANIC: Disaster Recovery
+---
+
+## Disaster Recovery
 
 ### Complete System Rebuild
 
@@ -84,14 +122,12 @@ TODO
 
 3. **Restore all data from NAS backup**
    ```bash
-   # Restore all service data (including Portainer)
    rsync -avz nas:/backups/docker_data/ /docker_data/
    ```
 
 4. **Restore secrets**
    ```bash
    mkdir -p ./secrets
-   # Either restore from NAS or retrieve from Bitwarden
    rsync -avz nas:/backups/secrets/.env ./secrets/.env
    # Or retrieve from Bitwarden if not on NAS
    ```
@@ -110,7 +146,7 @@ TODO
 6. **Deploy stack in Portainer** (only if fresh Portainer install)
    - Login to Portainer: `http://<server-ip>:9000`
    - Stacks → Add Stack → Repository
-   - Git Repository URL: `https://github.com/<your-org>/soteria_compose`
+   - Git Repository URL: `https://github.com/maakleerplek/soteria_compose`
    - Compose path: `docker-compose.yml`
    - Environment variables: Upload your `secrets/.env` file
    - Deploy!
@@ -120,7 +156,6 @@ TODO
    docker ps
    docker compose logs -f
    ```
-
 
 ### Partial Service Recovery
 
@@ -136,6 +171,8 @@ docker compose up -d --force-recreate <service-name>
 # Check logs
 docker compose logs -f <service-name>
 ```
+
+---
 
 ## Adding New Services
 
@@ -153,10 +190,8 @@ services:
   myservice:
     image: <image-name>:<tag>
     environment:
-      # Use secrets from .env
       KEY: ${VALUE}
     volumes:
-      # Store data in /docker_data/
       - /docker_data/<service-name>:/app/data
     ports:
       - "<host-port>:<container-port>"
@@ -196,6 +231,8 @@ git push
 - Click "Pull and redeploy"
 - Or click "Editor" → "Update the stack"
 
+---
+
 ## Common Operations
 
 ### View All Services
@@ -217,7 +254,6 @@ docker compose logs -f <service-name>
 ### Update a Service
 
 ```bash
-# Pull latest image and recreate
 docker compose pull <service-name>
 docker compose up -d <service-name>
 ```
@@ -238,6 +274,8 @@ rsync -avz /docker_data/ nas:/backups/docker_data/
 rsync -avz ./secrets/.env nas:/backups/secrets/
 ```
 
+---
+
 ## Current Services
 
 ### wikijs-wiki-prod-sot
@@ -245,6 +283,8 @@ rsync -avz ./secrets/.env nas:/backups/secrets/
 - **Access**: http://<server-ip>:3081
 - **Data**: `/var/lib/docker/volumes/wikijs-wiki-prod-sot_wikidb-data/_data`
 - **Secrets**: `POSTGRES_DB`, `POSTGRES_USER`, `POSTGRES_PASSWORD`
+
+---
 
 ## Backup Schedule
 
@@ -257,18 +297,15 @@ rsync -avz ./secrets/.env nas:/backups/secrets/
 - On changes: Update secrets in Bitwarden
 - After adding services: Push to Git immediately
 
+---
+
 ## Troubleshooting
 
 ### Service won't start
 
 ```bash
-# Check logs
 docker compose logs <service-name>
-
-# Check if port is already in use
 netstat -tlnp | grep <port>
-
-# Verify secrets exist
 ls -la ./secrets/.env
 ```
 
@@ -284,6 +321,8 @@ ls -la ./secrets/.env
 - Check permissions on `/docker_data/`
 - Ensure volumes are correctly mounted: `docker inspect <container>`
 
+---
+
 ## Security Notes
 
 - Never commit `./secrets/.env` to Git
@@ -291,3 +330,10 @@ ls -la ./secrets/.env
 - Regular backup rotation on NAS
 - Review service exposure (ports) regularly
 
+---
+
+## See Also
+
+- [Portainer](/it/services/portainer)
+- [User Management](/it/user-management)
+- [IT Infrastructure](/it)

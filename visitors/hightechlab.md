@@ -24,8 +24,8 @@ We have laser cutters, 3D printers, CNC routers, electronics equipment, and much
 - [Schedule & Opening Hours *When you can visit the lab*](/visitors/schedule)
 - [Prices *Machine rates and payment info*](/visitors/prices)
 - [Our Machines *Full equipment list with details*](/visitors/machines)
-- [Workshops *Public workshops and group bookings*](/visitors/workshops)
-- [Frequently Asked Questions *Common questions answered*](/visitors/faq)
+- [Workshops *Public workshops and group bookings*](https://maakleerplek.sharepoint.com/sites/HighTechLab/SitePages/Workshops.aspx)
+- [Frequently Asked Questions *Common questions answered*](https://maakleerplek.sharepoint.com/sites/HighTechLab/SitePages/Frequently-Asked-Questions.aspx)
 {.links-list}
 
 ## For Volunteers
@@ -34,18 +34,18 @@ We have laser cutters, 3D printers, CNC routers, electronics equipment, and much
 {.is-warning}
 
 - [Volunteer Hub *Meetings, tools, assets, and shared documents*](/volunteers/volunteer-hub)
-- [Volunteering at HTL *Expectations, benefits, activities*](/volunteers/volunteering)
-- [The Lab — Rules & Procedures *House rules, how to enter, machine use*](/visitors/the-lab)
-- [Open Labs — Shift Guide *Thursday & Saturday duties*](/volunteers/open-labs)
+- [Volunteering at HTL *Expectations, benefits, activities*](https://maakleerplek.sharepoint.com/sites/HighTechLab/SitePages/Volunteering-at-HTL.aspx)
+- [The Lab — Rules & Procedures *House rules, how to enter, machine use*](https://maakleerplek.sharepoint.com/sites/HighTechLab/SitePages/The-HTL-Lab.aspx)
+- [Open Labs — Shift Guide *Thursday & Saturday duties*](https://maakleerplek.sharepoint.com/sites/HighTechLab/SitePages/Open-Labs.aspx)
 - [Restocking *Item empty? What to do when stock runs out*](/volunteers/restocking)
 - [Stock Management System *InvenTree, checkout frontend, barcode scanner*](/volunteers/stock-system)
-- [Teams & Responsibilities *Sub-teams and machine responsibles*](/volunteers/teams)
+- [Teams & Responsibilities *Sub-teams and machine responsibles*](https://maakleerplek.sharepoint.com/sites/HighTechLab/SitePages/Teams.aspx)
 - [Machines *Equipment details, status, responsibles*](/visitors/machines)
 - [Closing Checklist *End-of-day shutdown procedure*](/volunteers/closing-checklist)
-- [Finance & Purchasing *How to buy things, reimbursement*](/volunteers/finance)
+- [Finance & Purchasing *How to buy things, reimbursement*](https://maakleerplek.sharepoint.com/sites/HighTechLab/SitePages/Purchase-rules.aspx)
 - [Volunteer Contact List *WhatsApp groups and team representatives*](/volunteers/volunteer-contacts)
-- [Service Learning *Global Engineers student crew*](/volunteers/service-learning)
-- [Documents *SharePoint document library*](/volunteers/documents)
+- [Service Learning *Global Engineers student crew*](https://maakleerplek.sharepoint.com/sites/HighTechLab/SitePages/ServiceLearning.aspx)
+- [Documents *SharePoint document library*](https://maakleerplek.sharepoint.com/sites/HighTechLab/Shared%20Documents/Forms/AllItems.aspx)
 {.links-list}
 
 ## Quick Info
