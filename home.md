@@ -2,7 +2,7 @@
 title: Maakleerplek Wiki
 description: Internal wiki for maakleerplek vzw volunteers and coordinators.
 published: true
-date: 2026-05-31T19:25:37.294Z
+date: 2026-05-31T20:40:04.441Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-27T11:11:38.562Z
@@ -21,14 +21,15 @@ Welcome to the internal wiki for High Tech Lab, part of **maakleerplek vzw** —
 
 ---
 
-## High Tech Lab
+## Info for visitors
 
+What is High Tech Lab?
 - [Overview *Schedule, pricing, getting started*](/en/hightechlab)
 - [The Lab *House rules, how to enter, machine use*](/en/hightechlab/the-lab)
 - [Open Labs *Thursday 18-22h, Saturday 14-18h*](/en/hightechlab/open-labs)
 - [Workshops *Public workshops and group bookings*](/en/hightechlab/workshops)
-{.links-list}
 
+{.links-list}
 
 ---
 
