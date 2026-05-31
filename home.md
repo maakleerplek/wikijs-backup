@@ -2,7 +2,7 @@
 title: Maakleerplek Wiki
 description: Internal wiki for maakleerplek vzw volunteers and coordinators.
 published: true
-date: 2026-05-27T19:22:37.257Z
+date: 2026-05-31T19:25:37.294Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-27T11:11:38.562Z
@@ -29,15 +29,6 @@ Welcome to the internal wiki for High Tech Lab, part of **maakleerplek vzw** —
 - [Workshops *Public workshops and group bookings*](/en/hightechlab/workshops)
 {.links-list}
 
-## Maakleerplek (building-wide)
-
-- [Access & Smart Locks *Salto locks, bollard, physical keys*](/en/maakleerplek/access)
-- [Room Booking *Meeting rooms and spaces*](/en/maakleerplek/rooms)
-- [Waste Management *Sorting and disposal*](/en/maakleerplek/waste)
-- [Buurtkantine *Thursday evening community bar*](/en/maakleerplek/buurtkantine)
-- [Maakleerfest *Annual open day*](/en/maakleerplek/maakleerfest)
-- [Cleaning *Schedule, supplies, procedures*](/en/maakleerplek/cleaning)
-{.links-list}
 
 ---
 
@@ -58,7 +49,7 @@ Welcome to the internal wiki for High Tech Lab, part of **maakleerplek vzw** —
 
 ---
 
-**ICT & Infrastructure**
+**Documentation IT**
 - [HTL Dashboard *All tools, links, and resources in one place*](/en/hightechlab/dashboard)
 - [Soteria Stack *Server infrastructure*](/en/ict/admin/soteria-doc)
 - [TV Kiosk Documentation *Kiosk info*](/en/ict/infra/kiosk-screen)
