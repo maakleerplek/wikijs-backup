@@ -1,8 +1,8 @@
 ---
-title: Maakleerplek Wiki
-description: Internal wiki for maakleerplek vzw volunteers and coordinators.
+title: Home page
+description: 
 published: false
-date: 2026-06-01T05:47:31.697Z
+date: 2026-06-01T05:48:24.509Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-31T21:55:26.008Z
