@@ -2,10 +2,10 @@
 title: InvenTree
 description: Stock management database for HTL consumables.
 published: true
-date: 2026-05-31T21:00:00.000Z
-tags: it, service, stock, inventory
+date: 2026-06-01T05:43:19.835Z
+tags: 
 editor: markdown
-dateCreated: 2026-05-31T21:00:00.000Z
+dateCreated: 2026-06-01T05:43:19.835Z
 ---
 
 # InvenTree
