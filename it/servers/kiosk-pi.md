@@ -2,10 +2,10 @@
 title: Info Screen — Raspberry Pi Kiosk
 description: Raspberry Pi kiosk info screen setup, CEC TV control, Openlab schedule automation, and barcode scanner service
 published: true
-date: 2026-05-28T16:59:25.125Z
+date: 2026-06-01T05:43:03.362Z
 tags: 
 editor: markdown
-dateCreated: 2026-04-29T16:27:20.229Z
+dateCreated: 2026-06-01T05:43:03.362Z
 ---
 
 # Info Screen — Raspberry Pi Kiosk
