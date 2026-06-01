@@ -2,10 +2,10 @@
 title: Helios Server
 description: Application and storage server for Maakleerplek services.
 published: true
-date: 2026-05-31T21:00:00.000Z
-tags: it, server
+date: 2026-06-01T05:42:55.304Z
+tags: 
 editor: markdown
-dateCreated: 2026-05-31T21:00:00.000Z
+dateCreated: 2026-06-01T05:42:55.304Z
 ---
 
 # Helios Server
