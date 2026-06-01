@@ -2,10 +2,10 @@
 title: Dashboard
 description: Entrance TV dashboard showing events and stock.
 published: true
-date: 2026-05-31T21:00:00.000Z
-tags: it, service, dashboard, kiosk
+date: 2026-06-01T05:43:28.604Z
+tags: 
 editor: markdown
-dateCreated: 2026-05-31T21:00:00.000Z
+dateCreated: 2026-06-01T05:43:28.604Z
 ---
 
 # Dashboard
