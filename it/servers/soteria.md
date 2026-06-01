@@ -2,10 +2,10 @@
 title: Soteria Server
 description: Main Docker host for Maakleerplek production services.
 published: true
-date: 2026-05-31T21:00:00.000Z
-tags: it, server, docker
+date: 2026-06-01T05:42:42.687Z
+tags: 
 editor: markdown
-dateCreated: 2025-11-19T22:51:28.578Z
+dateCreated: 2026-06-01T05:42:42.687Z
 ---
 
 # Soteria Server
