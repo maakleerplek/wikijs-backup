@@ -1,8 +1,8 @@
 ---
-title: Home page
+title: Home
 description: 
 published: true
-date: 2026-06-01T05:49:37.318Z
+date: 2026-06-01T05:50:21.009Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-31T21:55:26.008Z
