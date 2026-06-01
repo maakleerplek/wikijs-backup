@@ -2,10 +2,10 @@
 title: Wiki.js
 description: Wiki.js service configuration and management.
 published: true
-date: 2026-05-31T21:00:00.000Z
-tags: it, service, wiki
+date: 2026-06-01T05:43:07.496Z
+tags: 
 editor: markdown
-dateCreated: 2026-05-31T21:00:00.000Z
+dateCreated: 2026-06-01T05:43:07.496Z
 ---
 
 # Wiki.js
