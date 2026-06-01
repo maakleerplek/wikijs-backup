@@ -2,10 +2,10 @@
 title: Portainer
 description: Docker container management GUI.
 published: true
-date: 2026-05-31T21:00:00.000Z
-tags: it, service, docker
+date: 2026-06-01T05:43:11.418Z
+tags: 
 editor: markdown
-dateCreated: 2026-05-31T21:00:00.000Z
+dateCreated: 2026-06-01T05:43:11.418Z
 ---
 
 # Portainer
