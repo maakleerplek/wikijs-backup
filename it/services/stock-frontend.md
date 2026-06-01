@@ -2,10 +2,10 @@
 title: Stock Frontend
 description: React PWA for stock checkout and volunteer management.
 published: true
-date: 2026-05-31T21:00:00.000Z
-tags: it, service, stock, frontend
+date: 2026-06-01T05:43:23.945Z
+tags: 
 editor: markdown
-dateCreated: 2026-05-31T21:00:00.000Z
+dateCreated: 2026-06-01T05:43:23.945Z
 ---
 
 # Stock Frontend
