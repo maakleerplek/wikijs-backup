@@ -2,10 +2,10 @@
 title: Temporary HTL Server
 description: Temporary HTL server — a laptop running Ubuntu Server hosting the InvenTree backend and stock management frontend.
 published: true
-date: 2026-05-12T14:04:57.056Z
-tags: htl, ict, server, infrastructure
+date: 2026-06-01T05:42:59.300Z
+tags: 
 editor: markdown
-dateCreated: 2026-05-07T20:04:00.288Z
+dateCreated: 2026-06-01T05:42:59.300Z
 ---
 
 # Temporary HTL Server
